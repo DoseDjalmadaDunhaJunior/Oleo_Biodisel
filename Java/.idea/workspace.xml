@@ -63,13 +63,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="276" y="120" key="CommitChangelistDialog2" timestamp="1586654892265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="276" y="120" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586654892265" />
     <state x="369" y="166" key="SettingsEditor" timestamp="1586654507824">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="369" y="166" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586654507824" />
-    <state x="729" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586654868805">
+    <state x="559" y="264" key="Vcs.Push.Dialog.v2" timestamp="1586654896056">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="729" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586654868805" />
+    <state x="559" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586654896056" />
+    <state x="729" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586655026454">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="729" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586655026454" />
   </component>
 </project>
