@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e30274d-bc6a-4ef3-b1e7-2d629219ba50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Decantador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Decantador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,29 +62,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586653518051</updated>
-      <workItem from="1586653521955" duration="1347000" />
+      <workItem from="1586653521955" duration="1571000" />
+      <workItem from="1586791885722" duration="2528000" />
     </task>
+    <task id="LOCAL-00001" summary="Só fiz em java por enquanto e ainda não acabei">
+      <created>1586654892409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586654892409</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Só fiz em java por enquanto e ainda não acabei">
+      <created>1586655033332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586655033332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Só fiz em java por enquanto e ainda não acabei" />
+    <option name="LAST_COMMIT_MESSAGE" value="Só fiz em java por enquanto e ainda não acabei" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="276" y="120" key="CommitChangelistDialog2" timestamp="1586654892265">
+    <state x="276" y="120" key="CommitChangelistDialog2" timestamp="1586655033243">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="276" y="120" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586654892265" />
+    <state x="276" y="120" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586655033243" />
+    <state width="908" height="278" key="GridCell.Tab.0.bottom" timestamp="1586795205665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586795205665" />
+    <state width="908" height="278" key="GridCell.Tab.0.center" timestamp="1586795205665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="278" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586795205665" />
+    <state width="908" height="278" key="GridCell.Tab.0.left" timestamp="1586795205664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="278" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586795205664" />
+    <state width="908" height="278" key="GridCell.Tab.0.right" timestamp="1586795205665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="908" height="278" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586795205665" />
     <state x="369" y="166" key="SettingsEditor" timestamp="1586654507824">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="369" y="166" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586654507824" />
-    <state x="559" y="264" key="Vcs.Push.Dialog.v2" timestamp="1586654896056">
+    <state x="559" y="264" key="Vcs.Push.Dialog.v2" timestamp="1586655034722">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="559" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586654896056" />
-    <state x="729" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586655026454">
+    <state x="559" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586655034722" />
+    <state x="729" y="447" width="461" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586795405870">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="729" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586655026454" />
+    <state x="729" y="447" width="461" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586795405870" />
   </component>
 </project>
