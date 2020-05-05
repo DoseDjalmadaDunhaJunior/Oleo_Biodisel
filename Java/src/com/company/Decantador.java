@@ -20,7 +20,7 @@ public class Decantador {
 
     private void espera(int tempo) {
         try {
-            Thread.sleep((tempo * 1000));
+            Thread.sleep((tempo * 5000));
         } catch (InterruptedException e1) {
             System.out.println("ola");
         }

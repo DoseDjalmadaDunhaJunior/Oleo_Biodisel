@@ -1,15 +1,14 @@
 package com.company;
 
 public class Secadores {
-    public int tempo = 0;
-    public float saida(float entrada){
+    public float saida(float entrada) {
         return perdido(entrada);
     }
 
-    private float perdido(float numero){
-        if(tempo == 3) {
-            float temp = numero * 0.01;
-            return numero - temp;
-        }
+    private float perdido(float numero) {
+        Thread.sleep(3000);
+        float temp = numero * 0.01;
+        return numero - temp;
+
     }
 }
